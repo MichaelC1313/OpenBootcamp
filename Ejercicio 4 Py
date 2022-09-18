@@ -1,4 +1,4 @@
 #Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
 
-for x in reversed(range(1, 100 )):
+for x in reversed(range(1, 101 )):
   print("el numero es: ", x)
